@@ -1,0 +1,13 @@
+"Screen 1: The button text says “BLUR”, and to the right of the text there’s a colorful spot (see 1.png), in a color that contrasts with the button (e.g., white)."
+Screen 1: At the bottom left - the “BLUR” button; to its right - a round button with an arrow (“Continue”). Example: 4.jpg.
+Screen 1: Text on the first screen: “Blur out extra faces and details in your photo.” This phrase both motivates the user to tap the “BLUR” button and explains the core functionality. The text is placed directly above the buttons.
+"Screen 1: On the unblurred version of the photo, highlight the faces that should be blurred with yellow circular and square frames. See 2.jpg."
+"Screen 1: For the first screen, you can use a fun photo (see 6.webp) and blur the faces or gestures in it - for example, horns over a monkey’s head. This option works well with the text “Blur out extra faces and details in your photo.”"
+"Screen 1: After pressing the “BLUR” button on the first screen, the text should change to a circular arrow icon instead (see 5.jpg). This provides the option to revert to the original unblurred photo."
+"Screen 2: Phrase for the second screen: “Hide personal data with pixels.” For illustration, use a photo similar to the App Store example - with a credit card (see 7.jpg)."
+"Screen 2: On the second screen, the button reads “MOSAIC”. To the right of the text - a square-pattern icon (see 9.jpg), in a color different from the button (e.g., white)."
+"Screen 3 (optional): A photo of a girl, with a straight vertical line in the center. On that line - a joystick with arrows (see 8.jpg) that can be moved left and right (left side: the original photo; right side: with blurred background). Label at the top left: “Original,” at the top right: “After.” On the “After” version, the background behind the girl is blurred (portrait effect)."
+"Screen 3 (optional): Slightly below the joystick, add a small animation of a hand (see 10.jpg) swiping left and right - a hint that the joystick is movable."
+Screen 3 (optional): Text above the button on the third screen: “Blur the background - highlight the main.” Only one button on this screen: “Continue.”
+"Screen 4: On the last screen, a video demonstrates the video blur feature (use the video from the instruction, trimming the beginning from 0-6 seconds and removing the dark lower area to slightly reduce frame height). Only one button here: “Continue.”"
+Screen 4: Text above the button: “Blur everything unnecessary in videos - simply and quickly.”

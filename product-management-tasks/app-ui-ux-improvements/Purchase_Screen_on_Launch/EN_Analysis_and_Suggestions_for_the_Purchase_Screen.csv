@@ -1,0 +1,25 @@
+Replace the label “Limited version” with “Continue for free with limitations.”
+"When the “7-day trial” toggle is activated, the “Weekly” plan is automatically selected. If another plan is selected, the toggle automatically turns off. If the user manually selects the “Weekly” plan first (without enabling the “7-day trial” toggle), the toggle does not turn on automatically. This behavior allows: 1) giving the user a choice (they can pay immediately without a trial), 2) adding a small element of interactivity, 3) creating a sense of “personal benefit” from discovering the trial independently (“I noticed the free trial myself”). Example: Video Editor - Video.Guru (Android)."
+Example of the “7-day trial” toggle – see 1.jpg and 2.jpg.
+Button text: 1) When a plan is selected without activating the “7-day trial” option ? text on button: “Activate Premium.” 2) When the Weekly plan is selected and/or the “7-day trial” toggle is activated ? text on button: “Start Free Trial.”
+"On the “3-Month” plan, there should be a flag-style label on the right reading “Save 81%”, and in parentheses, show the weekly equivalent price for this plan - see 2.jpg for reference."
+"When the Weekly plan is selected and the “7-day trial” toggle is active, the text “7-day trial” should appear inside that plan’s card. Example: 2.jpg."
+You can also add a popup banner when the app is opened for the first time with the text: “Activate now and get 7 days free.” This approach doesn’t mislead users (no fake deadlines) but may increase conversions. It is recommended to perform an A/B test to measure how the banner affects trial activations.
+"The word Premium should be inside a border matching the color of: the confirmation button, the checkmark circles in the “Premium” column, and the “Save 81%” flag. Color: yellow gradient."
+The screen listing free and paid features (shown after onboarding) simultaneously serves as an overview of the app’s full capabilities - helping users quickly understand which features are available and what the app can do.
+The background of this screen can be styled the same as the purchase screen in Settings.
+"The phrase “Subscription can be canceled anytime” should appear in bold at the start of the lower text block. Continue the text as follows: “in Google Play Store. The weekly plan will automatically renew at €3.99 per week after the 7-day trial (if enabled), and the 3-month plan at €9.99 every 3 months. If canceled during the trial period, no payment will be charged. A subscription is not required to use ‘Blur - Photo & Video Editor.’”"
+"Under the top heading “Blur Videos Premium,” add the subtitle “No limits.”"
+Add icons next to the items in the Features section. Example layout: 4.jpg.
+"Feature list items: 1) Blur filter (photo and video), 2) Mosaic filter / pixelation effect (photo and video), 3) Export to MP4 format, 4) Export to MOV format, 5) HD quality, 6) No ads, 7) Professional tools, 8) Access to all updates"
+The free version should be named “Basic” in the feature comparison table.
+"In the table, to the left of the “Premium” column title, display a crown icon, the same one used in the “Subscribe” section in the app settings (see 5.jpg)."
+
+
+Notes on the Current Screen:
+"The term “Limited version” is unclear and confusing - it’s not immediately obvious what it means. Suggested alternative: “Continue for free with limitations.” This phrase is clear and logical, especially since the screen appears right after onboarding: “Continue” fits naturally in that context and in later app sessions. It also sounds neutral and user-friendly."
+"The animation at the top looks clickable but adds no meaning or visual “wow” effect, while taking up a lot of space."
+The word Premium looks clickable (underlined). It would be better to highlight it with colored letters or place it inside a colored border (see 1.jpg for reference).
+"When the purchase screen appears, it looks unclear and uninformative - the text doesn’t clearly explain what users are paying for. The phrase “Every 3 month” reads awkwardly and looks like a grammar error. Suggested replacements: “€9.99 / 3 months” instead of “Every 3 month” “€3.99 / week” instead of “Weekly.”"
+The “Next” button label is not intuitive - it’s unclear what will happen after pressing it. Replace it with clearer alternatives: 1) For the 3-month plan - “Activate Premium.” 2) For the weekly plan - “Try for Free” or “Start Free Trial.”
+"The clickable “Limited version” label would make more sense at the bottom, under the subscription prices and button. This makes the interface more intuitive and avoids confusion about where the link leads. Alternatively, it can be visually styled the same way as the other plan cards to maintain design consistency and intuitive layout. The first option is recommended."

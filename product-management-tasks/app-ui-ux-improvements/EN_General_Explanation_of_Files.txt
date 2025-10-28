@@ -2,10 +2,10 @@ Project File Instructions
 
 Each folder (Onboarding, Purchase Screen, and Logo) contains two files:
 
-1. Word file - contains notes directly related to the designer’s work, 
+1. Word file (also a pdf copy for GitHub) - contains notes directly related to the designer’s work, 
 including layout descriptions and design instructions to be used for further visual development.
 
-2. Excel (CSV) file - contains all my comments, analysis, reasoning, and suggestions for every aspect of the task. 
+2. Excel file (also a csv copy for GitHub) - contains all my comments, analysis, reasoning, and suggestions for every aspect of the task. 
 This file includes general ideas, research, and all the data used to form my recommendations.
 
-Thus, the Word file focuses solely on the design part of the task, while the Excel (CSV) file covers all processed information and the overall project content.
+Thus, the Word file (pdf) focuses solely on the design part of the task, while the Excel file (csv) covers all processed information and the overall project content.
